@@ -1,6 +1,6 @@
 👋 &nbsp;Hi, I’m Ryan, I am a Full Stack Software Engineer with experience in C#, .Net, SQL Server, AngularJS, NodeJS, NoSQL DBs, and few other tools. <br />
 <br />
-👀 &nbsp;I’m interested in building useful tools with simple interfaces. I built the entire site at [lokii](https://lokii.com) using AngularJS, Firebase, and Node deployed on AWS. <br /> 
+👀 &nbsp;I’m interested in building useful tools with simple interfaces. I built the entire [website](https://lokii.com) and [ios app](https://apps.apple.com/us/app/lokii/id1501123585) at lokii. lokii is a local shopping and same day delivery app to buy items from your favorite local businesses. The site was built using AngularJS, Firebase, and Node deployed on AWS and the ios app was built in Swift with Node and Firebase.  <br /> 
 <br />
 💞️ &nbsp;I’m looking to collaborate on pretty much anything! <br />
 <br />
